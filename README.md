@@ -1,4 +1,4 @@
-210701220 IOT Lab Experiments
+210701203 IOT Lab Experiments
 Including our Project
-### PLANT WATERING SYSTEM USING ESP32
+### HOME AUTOMATON SYSTEM
 With Report and Code
